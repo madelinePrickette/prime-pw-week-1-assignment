@@ -30,7 +30,7 @@ body {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.imageDetails {
+.imageDetails1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -38,3 +38,18 @@ body {
     border-radius: 30%;
 }
 
+.inline-block {
+    display: inline-block;
+ }
+
+ .headerImages {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60px;
+    border-radius: 50%;
+ }
+
+ .headerBorder {
+     border: 5px groove #BE2490;
+ }
