@@ -12,10 +12,10 @@ You're going to:
 
 *✅ use git to fork/clone a repository (aka repo) from GitHub and get your work published back to your GitHub account
 *✅ set up files and connect them
-* edit the HTML and CSS
-* test your work in the browser
-* use git to "save" your work
-* use the command line and your Mac's built-in Terminal
+*✅ edit the HTML and CSS
+*✅ test your work in the browser
+*✅ use git to "save" your work
+*✅ use the command line and your Mac's built-in Terminal
 * turn your assignment in through Prime's Assignment Portal
 
 ---
