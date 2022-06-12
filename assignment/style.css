@@ -1,6 +1,8 @@
 /* Give your page a fun background color */
 body {
+    background-image: url(imagesofme/bubbles.jpg);
     background-color: #E9BBE5;
+    background-blend-mode:color-burn;
 }
 /* Make the header and footer a different color from the background */
 .lightBackgroundColor {
@@ -18,7 +20,7 @@ body {
     font-style: italic;
 }
 /* Put a border around your image */
-.funBorder {
+.funBorderLargeImage {
     border: 15px groove #BE2490;
 }
 /* Change the font-family of your list */
@@ -26,8 +28,9 @@ body {
     font-family:'Courier New', Courier, monospace;
 }
 
-.newFont {
+.arialFont {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
 }
 
 .imageDetails1 {
@@ -35,7 +38,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 30%;
-    border-radius: 30%;
+    border-radius: 70px;
 }
 
 .inline-block {
@@ -50,6 +53,16 @@ body {
     border-radius: 50%;
  }
 
- .headerBorder {
+ .headerImageBorder {
      border: 5px groove #BE2490;
+ }
+
+ .aligningDiv {
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+ }
+
+ .smallBorderRadius {
+     border-radius: 10px;
  }
