@@ -14,7 +14,7 @@ body {
 }
 /* Make your p tag a different color and italic */
 .darkPurple {
-    color: #793B89;
+    color: #9442a8;
 }
 .itallicFontStyle {
     font-style: italic;
@@ -28,9 +28,14 @@ body {
     font-family:'Courier New', Courier, monospace;
 }
 
-.arialFont {
+.footerFont {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 20px;
+}
+
+.headerFont {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
 }
 
 .imageDetails1 {
@@ -65,4 +70,19 @@ body {
 
  .smallBorderRadius {
      border-radius: 10px;
+ }
+
+ .ulStyle {
+    list-style-type: square;
+    background: #cc3ca1;
+    padding: 20px;
+    border-radius: 10px;;
+ }
+
+ .liStyle {
+    background-color: #E9BBE5;
+    color: #52285d;
+    padding: 3px;
+    margin-left: 25px;
+    border-radius: 100px;;
  }
